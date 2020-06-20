@@ -1,0 +1,10 @@
+scn PilzErnteSkript
+
+Begin OnActivate
+activate
+disable
+End
+
+Begin OnReset
+enable
+End

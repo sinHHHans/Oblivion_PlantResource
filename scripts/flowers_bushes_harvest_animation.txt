@@ -1,0 +1,9 @@
+scn PflanzenErnteSkript
+Begin OnActivate
+playgroup forward 1
+activate
+End
+
+Begin OnReset
+playgroup backward 1
+End
