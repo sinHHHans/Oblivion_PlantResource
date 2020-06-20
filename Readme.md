@@ -19,7 +19,7 @@ Important: Most of the plants have a harvesting animation. This means that when 
 
 For flowers and bushes:
 
-´´´
+```
 scn PflanzenErnteSkript
 Begin OnActivate
 playgroup forward 1
@@ -29,10 +29,11 @@ End
 Begin OnReset
 playgroup backward 1
 End
-´´´
+```
 
 For Mushrooms:
-´´´
+
+```
 scn PilzErnteSkript
 
 Begin OnActivate
@@ -43,7 +44,7 @@ End
 Begin OnReset
 enable
 End
-´´´
+```
 
 ### Note on Ingredients
 Some plants have regular seeds as ingredient which already exist in Oblivion.
