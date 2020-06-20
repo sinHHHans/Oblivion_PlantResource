@@ -5,11 +5,11 @@
 
 ## Summary
 
-Game: TES IV - Oblivion
-Name of Ressource: sinHHHans Plant Ressource
-Version: 1.1
-Release-Date: June 2009
-Author: sinHHHans
+- Game: TES IV - Oblivion
+- Name of Ressource: sinHHHans Plant Ressource
+- Version: 1.1
+- Release-Date: June 2009
+- Author: sinHHHans
 
 ## Details:
 
